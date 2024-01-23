@@ -44,8 +44,8 @@
                                 <div class="theme_title">
                                  <h4>Contact</h4>
                              </div>
-                             <p><span class="ficon flaticon-map"></span> 001 Columbus Road, Floor 4 <br>San Francisco  CA 9100</p>
-                             <p><span class="ficon flaticon-phone"></span> <a href="#">(+91) 00-700-6203 to 6206</a></p>
+                             <p><span class="ficon flaticon-map"></span> 11/F, FORTUNE COMMERCIAL BUILDING, 362 SHA TSUI ROAD, TSUEN WAN, HONG KONG</p>
+                             <p><span class="ficon flaticon-phone"></span> <a href="#">(+852) 0000 0000</a></p>
                              <p><span class="ficon flaticon-messagetwo"></span> <a href="#">info@silverlionglobal.com</a></p>
                             
                             </div> <!-- End of .footer_contact -->

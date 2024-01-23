@@ -153,7 +153,7 @@
 					</div> <!-- End of .about_ConsultPress -->
 
 					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 testimonial">
-						<img src="images/home/about.jpg" alt="{{ config('app.full_company_name') }}" class="img-responsive" >
+						<img src="{{ asset('images/home/about.jpg') }}" alt="{{ config('app.full_company_name') }}" class="img-responsive" >
 						
 					</div> <!-- End of .testimonial -->
 				</div> <!-- End of .row -->

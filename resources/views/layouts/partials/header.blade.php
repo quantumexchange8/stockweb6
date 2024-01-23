@@ -5,8 +5,8 @@
         <div class="row">
             <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12 header_left">
                 <ul>
-                    <li><i class="fa fa-map-marker s_color" aria-hidden="true"></i><a href="#">001 Columbus Road, Floor 4, San Francisco CA 9100</a></li>
-                    <li><i class="fa fa-phone s_color" aria-hidden="true"></i><a href="#">Contact Us! (222) 890 60 3919 </a></li>
+                    <li><i class="fa fa-map-marker s_color" aria-hidden="true"></i><a href="#">11/F, FORTUNE COMMERCIAL BUILDING, 362 SHA TSUI ROAD, TSUEN WAN, HONG KONG</a></li>
+                    <li><i class="fa fa-phone s_color" aria-hidden="true"></i><a href="#">Contact Us! (+852) 0000 0000 </a></li>
                     
                 </ul>
             </div> <!-- End of .header_left -->
@@ -38,8 +38,8 @@
 				       <li><a href="{{ url('/') }}">Home</a></li>
 				       <li class="dropdown"><a href="#">About Us</a>
 				       		<ul class="sub-menu">
-				       			<li><a href="#">Introduction</a></li>
-				       			<li><a href="#">Social Governance and responsibility</a></li>
+				       			<li><a href="{{ url('aboutus') }}">Introduction</a></li>
+				       			<li><a href="{{ url('social-governance-and-responsibility') }}">Social Governance and responsibility</a></li>
 				       			
 				       		</ul> <!-- End of .sub-menu -->
 				       </li>
@@ -57,8 +57,8 @@
 								<li><a href="">Financial Data Analysis</a></li>
 				       		</ul> <!-- End of .sub-menu -->
 				       </li>
-				       <li><a href="#">FAQ</a></li>
-				       <li><a href="#">Contact</a></li>
+				       <li><a href="{{ url('faq') }}">FAQ</a></li>
+				       <li><a href="{{ url('contactus') }}">Contact</a></li>
 					   <li><a href="https://app.silverlionglobal.com/accounts/login/">Portal Login</a></li>
 				     </ul>
 				   </div><!-- /.navbar-collapse -->
