@@ -36,7 +36,7 @@
 				   <div class="collapse navbar-collapse float_left" id="navbar-collapse-1">
 				     <ul class="nav navbar-nav">
 				       <li><a href="{{ url('/') }}">Home</a></li>
-				       <li class="dropdown"><a href="#">About Us</a>
+				       <li class="dropdown"><a href="{{ url('aboutus') }}">About Us</a>
 				       		<ul class="sub-menu">
 				       			<li><a href="{{ url('aboutus') }}">Introduction</a></li>
 				       			<li><a href="{{ url('social-governance-and-responsibility') }}">Social Governance and responsibility</a></li>
@@ -45,16 +45,16 @@
 				       </li>
 				       <li class="dropdown"><a href="#">Financial Planning</a>
 				       		<ul class="sub-menu fix">
-				       			<li><a href="">Portfolio Management</a></li>
-				       			<li><a href="">Investment Management</a></li>
-				       			<li><a href="">Stockbroking Services</a></li>
-				       			<li><a href="">Income Investing </a></li>
-								<li><a href="">Investment Bonds</a></li>
-								<li><a href="">Retirement Planning</a></li>
-								<li><a href="">Estate and Trust Planning</a></li>
-								<li><a href="">Customised Strategies</a></li>
-								<li><a href="">Sustainable Investment</a></li>
-								<li><a href="">Financial Data Analysis</a></li>
+				       			<li><a href="{{ url('portfolio-management') }}">Portfolio Management</a></li>
+				       			<li><a href="{{ url('investment-management') }}">Investment Management</a></li>
+				       			<li><a href="{{ url('stockbroking-services') }}">Stockbroking Services</a></li>
+				    			<li><a href="{{ url('income-investing') }}">Income Investing </a></li>
+								<li><a href="{{ url('investment-bonds') }}">Investment Bonds</a></li>
+								<li><a href="{{ url('retirement-planning') }}">Retirement Planning</a></li>
+								<li><a href="{{ url('estate-and-trust-planning') }}">Estate and Trust Planning</a></li>
+								<li><a href="{{ url('customised-strategies') }}">Customised Strategies</a></li>
+								<li><a href="{{ url('sustainable-investment') }}">Sustainable Investment</a></li>
+								<li><a href="{{ url('financial-data-analysis') }}">Financial Data Analysis</a></li>
 				       		</ul> <!-- End of .sub-menu -->
 				       </li>
 				       <li><a href="{{ url('faq') }}">FAQ</a></li>

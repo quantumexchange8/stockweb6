@@ -11,28 +11,28 @@
                              </div>
 
                              <ul class="float_left" style="padding-right: 50px;">
-                                 <li><a href="#" class="tran3s">Home</a></li>
-                                 <li><a href="#" class="tran3s">About Us</a></li>
-                                 <li><a href="#" class="tran3s">Social Governance and responsibility</a></li>
-                                 <li><a href="#" class="tran3s">FAQ</a></li>
-                                 <li><a href="#" class="tran3s">Articles / Insights</a></li>
-                                 <li><a href="#" class="tran3s">Contact us</a></li>
-                                 <li><a href="#" class="tran3s">Login</a></li>
-                                 <li><a href="#" class="tran3s">Register</a></li>
+                                 <li><a href="{{ url('/') }}" class="tran3s">Home</a></li>
+                                 <li><a href="{{ url('aboutus') }}" class="tran3s">About Us</a></li>
+                                 <li><a href="{{ url('social-governance-and-responsibility') }}" class="tran3s">Social Governance and responsibility</a></li>
+                                 <li><a href="{{ url('faq') }}" class="tran3s">FAQ</a></li>
+                                 <li><a href="{{ url('articles-insights') }}" class="tran3s">Articles / Insights</a></li>
+                                 <li><a href="{{ url('contactus') }}" class="tran3s">Contact us</a></li>
+                                 <li><a href="https://app.silverlionglobal.com/accounts/login/" class="tran3s">Login</a></li>
+                                 <li><a href="https://app.silverlionglobal.com/applications/create/" class="tran3s">Register</a></li>
                                  <li><a href="#" class="tran3s"></a></li>
                                  <li><a href="#" class="tran3s"></a></li>
                              </ul>
                              <ul class="border_fix">
-                                 <li><a href="#" class="tran3s">Portfolio Management</a></li>
-                                 <li><a href="#" class="tran3s">Investment Management</a></li>
-                                 <li><a href="#" class="tran3s">Stockbroking Services</a></li>
-                                 <li><a href="#" class="tran3s">Income Investing</a></li>
-                                 <li><a href="#" class="tran3s">Investment Bonds</a></li>
-                                 <li><a href="#" class="tran3s">Retirement Planning</a></li>
-                                 <li><a href="#" class="tran3s">Estate and Trust Planning</a></li>
-                                 <li><a href="#" class="tran3s">Customised Strategies</a></li>
-                                 <li><a href="#" class="tran3s">Sustainable Investment</a></li>
-                                 <li><a href="#" class="tran3s">Financial Data Analysis</a></li>
+                                <li><a href="{{ url('portfolio-management') }}" class="tran3s">Portfolio Management</a></li>
+                                <li><a href="{{ url('investment-management') }}" class="tran3s">Investment Management</a></li>
+                                <li><a href="{{ url('stockbroking-services') }}"  class="tran3s">Stockbroking Services</a></li>
+                                <li><a href="{{ url('income-investing') }}"  class="tran3s">Income Investing </a></li>
+                                <li><a href="{{ url('investment-bonds') }}"  class="tran3s">Investment Bonds</a></li>
+                                <li><a href="{{ url('retirement-planning') }}"  class="tran3s">Retirement Planning</a></li>
+                                <li><a href="{{ url('estate-and-trust-planning') }}"  class="tran3s">Estate and Trust Planning</a></li>
+                                <li><a href="{{ url('customised-strategies') }}"  class="tran3s">Customised Strategies</a></li>
+                                <li><a href="{{ url('sustainable-investment') }}"  class="tran3s">Sustainable Investment</a></li>
+                                <li><a href="{{ url('financial-data-analysis') }}"  class="tran3s">Financial Data Analysis</a></li>
                              </ul>
                              <div class="clear_fix"></div>
                             </div> <!-- End of .quick_links -->
