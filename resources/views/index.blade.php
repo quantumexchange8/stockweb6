@@ -85,7 +85,7 @@
 		<div class="request_quote">
 			<div class="container">
 				<p class="float_left">We’ll ensure you always get the best guidance.</p>
-				<a href="#" class="theme_button s_color_bg float_right tran3s">Contact Us</a>
+				<a href="{{ url('contactus') }}" class="theme_button s_color_bg float_right tran3s">Contact Us</a>
 				<div class="clear_fix"></div>
 			</div> <!-- End of .container -->
 		</div> <!-- End of .request_quote -->
