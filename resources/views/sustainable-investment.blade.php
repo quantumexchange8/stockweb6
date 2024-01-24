@@ -33,7 +33,7 @@
   <div class="col-lg-9 col-md-8 col-sm-12 col-xs-12 pull-right service_page_main_post ">
     <div class="wrapper">
       <div class="main_img_holder">
-        <img src="{{ asset('images/aboutus2.png') }}" alt="{{ config('app.full_company_name') }} " class="img-responsive">
+        <img src="{{ asset('images/sustainable-investment.png') }}" alt="{{ config('app.full_company_name') }} " class="img-responsive">
         <h4 class="p_color_bg s_color">Sustainable Investment </h4>
       </div> <!-- End of .main_img_holder -->
 

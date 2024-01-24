@@ -43,7 +43,7 @@
 				       			
 				       		</ul> <!-- End of .sub-menu -->
 				       </li>
-				       <li class="dropdown"><a href="#">Financial Planning</a>
+				       <li class="dropdown"><a href="{{ url('financial-planning') }}">Financial Planning</a>
 				       		<ul class="sub-menu fix">
 				       			<li><a href="{{ url('portfolio-management') }}">Portfolio Management</a></li>
 				       			<li><a href="{{ url('investment-management') }}">Investment Management</a></li>

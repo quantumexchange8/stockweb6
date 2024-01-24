@@ -25,6 +25,10 @@ Route::get('/social-governance-and-responsibility', function () {
     return view('sgr');
 });
 
+Route::get('/financial-planning', function () {
+    return view('financial-planning');
+});
+
 Route::get('/portfolio-management', function () {
     return view('portfolio-management');
 });
@@ -75,4 +79,9 @@ Route::get('/faq', function () {
 
 Route::get('/contactus', function () {
     return view('contactus');
+});
+
+
+Route::get('/articles-insights', function () {
+    return view('articles-insights');
 });

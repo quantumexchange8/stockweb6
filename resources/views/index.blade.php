@@ -233,7 +233,7 @@
         					</div>
         					<div class="text">
         						<div>
-									<h5><a href="#" style="color:#000">Portfolio Management</a></h5>
+									<h5><a href="{{ url('portfolio-management') }}" style="color:#000">Portfolio Management</a></h5>
 								</div>
 								<br>
 							</div> 
@@ -247,7 +247,7 @@
         					</div>
         					<div class="text">
         						<div>
-									<h5><a href="#" style="color:#000">Sustainable Investment
+									<h5><a href="{{ url('sustainable-investment') }}" style="color:#000">Sustainable Investment
 									</a></h5>
 								</div>
 								<br>
@@ -262,7 +262,7 @@
         					</div>
         					<div class="text">
         						<div>
-									<h5><a href="#" style="color:#000">Stockbroking Services</a></h5>
+									<h5><a href="{{ url('stockbroking-services') }}" style="color:#000">Stockbroking Services</a></h5>
 								</div>
 								<br>
 							</div> 
@@ -276,7 +276,7 @@
         					</div>
         					<div class="text">
         						<div>
-									<h5><a href="#" style="color:#000">Income Investing</a></h5>
+									<h5><a href="{{ url('income-investing') }}" style="color:#000">Income Investing</a></h5>
 								</div>
 								<br>
 							</div> 
@@ -290,7 +290,7 @@
         					</div>
         					<div class="text">
         						<div>
-									<h5><a href="#" style="color:#000">Investment Bonds</a></h5>
+									<h5><a href="{{ url('investment-bonds') }}" style="color:#000">Investment Bonds</a></h5>
 								</div>
 								<br>
 							</div> 
@@ -304,7 +304,7 @@
         					</div>
         					<div class="text">
         						<div>
-									<h5><a href="#" style="color:#000">Retirement Planning </a></h5>
+									<h5><a href="{{ url('retirement-planning') }}" style="color:#000">Retirement Planning </a></h5>
 								</div>
 								<br>
 							</div> 

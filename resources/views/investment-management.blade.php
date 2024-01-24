@@ -34,7 +34,7 @@
     <div class="wrapper">
       
       <div class="main_img_holder">
-        <img src="{{ asset('images/aboutus2.png') }}" alt="{{ config('app.full_company_name') }} " class="img-responsive">
+        <img src="{{ asset('images/investment-management.png') }}" alt="{{ config('app.full_company_name') }} " class="img-responsive">
         <h4 class="p_color_bg s_color">Investment Management</h4>
       </div> <!-- End of .main_img_holder -->
       

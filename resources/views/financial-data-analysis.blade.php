@@ -34,7 +34,7 @@
     <div class="wrapper">
       
       <div class="main_img_holder">
-        <img src="{{ asset('images/aboutus2.png') }}" alt="{{ config('app.full_company_name') }} " class="img-responsive">
+        <img src="{{ asset('images/financial-data-analysis.png') }}" alt="{{ config('app.full_company_name') }} " class="img-responsive">
         <h4 class="p_color_bg s_color">Financial Data Analysis</h4>
       </div> <!-- End of .main_img_holder -->
       <p>At {{ config('app.full_company_name') }}, we use cutting-edge methods to examine financial data and establish valuable insights to assist us in making educated business decisions. Our data-driven approach, which helps us identify hidden patterns, assess risk, and identify opportunities across a broad spectrum of asset classes. This enables us to offer our clients the best performance possible.</p>
