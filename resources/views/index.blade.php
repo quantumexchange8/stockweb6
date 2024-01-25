@@ -176,8 +176,8 @@
 							<div class="special_item">
 								<div class="icon float_left"><span class="ficon flaticon-peopletwo"></span></div> <!-- End of .icon -->
 								<div class="text float_left">
-									<span class="timer" data-from="1" data-to="150" data-speed="5000" data-refresh-interval="50">150</span><span> ++</span>
-									<p>Exclusive clients</p>
+									<span class="timer" data-from="12000" data-to="15000" data-speed="5000" data-refresh-interval="50">15000</span><span> ++</span>
+									<p>Satisfied Customers</p>
 								</div> <!-- End of .text -->
 								<div class="clear_fix"></div>
 							</div> <!-- End of .special_item -->
@@ -188,8 +188,8 @@
 							<div class="special_item">
 								<div class="icon float_left"><span class="ficon flaticon-screen"></span></div> <!-- End of .icon -->
 								<div class="text float_left">
-									<span class="timer" data-from="1" data-to="92" data-speed="5000" data-refresh-interval="50">92</span><span>%</span>
-									<p>Success rate</p>
+									<span>$</span><span class="timer" data-from="1" data-to="2" data-speed="5000" data-refresh-interval="50">2</span><span>bn+</span>
+									<p>Assets Under Management</p>
 								</div> <!-- End of .text -->
 								<div class="clear_fix"></div>
 							</div> <!-- End of .special_item -->
@@ -200,8 +200,8 @@
 							<div class="special_item">
 								<div class="icon float_left"><span class="ficon flaticon-smile"></span></div> <!-- End of .icon -->
 								<div class="text float_left">
-									<span class="timer" data-from="1" data-to="100" data-speed="5000" data-refresh-interval="50">100</span><span>%</span>
-									<p>Satisfied clients</p>
+									<span class="timer" data-from="1" data-to="96" data-speed="5000" data-refresh-interval="50">96</span><span>%</span>
+									<p>Client Retention Rate</p>
 								</div> <!-- End of .text -->
 								<div class="clear_fix"></div>
 							</div> <!-- End of .special_item -->
