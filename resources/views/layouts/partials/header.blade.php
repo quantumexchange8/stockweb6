@@ -5,8 +5,8 @@
         <div class="row">
             <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12 header_left">
                 <ul>
-                    <li><i class="fa fa-map-marker s_color" aria-hidden="true"></i><a href="#">11/F, FORTUNE COMMERCIAL BUILDING, 362 SHA TSUI ROAD, TSUEN WAN, HONG KONG</a></li>
-                    <li><i class="fa fa-phone s_color" aria-hidden="true"></i><a href="#">Contact Us! (+852) 0000 0000 </a></li>
+                    <li><i class="fa fa-map-marker s_color" aria-hidden="true"></i><a href="#">85 South Mall,Centre, Cork T12 A3XN Ireland</a></li>
+                    <li><i class="fa fa-phone s_color" aria-hidden="true"></i><a href="#">Contact Us! (+353) 21480 2699 </a></li>
                     
                 </ul>
             </div> <!-- End of .header_left -->

@@ -41,9 +41,9 @@
 
                 <p><span>Company : </span> {{ config('app.full_company_name') }}</p>
 
-                <p><span>Phone :</span> +852 0000 0000</p>
+                <p><span>Phone :</span> (+353) 21480 2699</p>
 
-                <p><span>Address :</span> 11/F, FORTUNE COMMERCIAL BUILDING, 362 SHA TSUI ROAD, TSUEN WAN, HONG KONG</p>
+                <p><span>Address :</span> 85 South Mall,Centre, Cork T12 A3XN Ireland</p>
             </div> <!-- End of .callBack_text -->
 
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 req_callBackForm">
