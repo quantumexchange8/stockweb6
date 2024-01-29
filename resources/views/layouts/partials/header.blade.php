@@ -5,8 +5,8 @@
         <div class="row">
             <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12 header_left">
                 <ul>
-                    <li><i class="fa fa-map-marker s_color" aria-hidden="true"></i><a href="#">85 South Mall,Centre, Cork T12 A3XN Ireland</a></li>
-                    <li><i class="fa fa-phone s_color" aria-hidden="true"></i><a href="#">Contact Us! (+353) 21480 2699 </a></li>
+                    <li><i class="fa fa-map-marker s_color" aria-hidden="true"></i><a href="#">1 Poultry, Bank London,EC2R 8EJ United Kingdom</a></li>
+                    <li><i class="fa fa-phone s_color" aria-hidden="true"></i><a href="#">Contact Us! (+44) 20703 04061 </a></li>
                     
                 </ul>
             </div> <!-- End of .header_left -->

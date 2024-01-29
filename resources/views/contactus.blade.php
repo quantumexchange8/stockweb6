@@ -56,6 +56,7 @@
                     <span style="font-family: 'Roboto', sans-serif; font-weight: 500; color: #272727;">Address :</span> <span>Torre Diamante Building,Via Mike Bongiorno, 13, 20124 Milano MI Italy</span></p>
                 
                 <p><h4>UK, London</h4>
+                    <span style="font-family: 'Roboto', sans-serif; font-weight: 500; color: #272727;">Phone :</span> <span>(+44) 20703 04061 </span><br>
                     <span style="font-family: 'Roboto', sans-serif; font-weight: 500; color: #272727;">Address :</span> <span>1 Poultry, Bank London,EC2R 8EJ United Kingdom </span></p>
             </div> <!-- End of .callBack_text -->
 
