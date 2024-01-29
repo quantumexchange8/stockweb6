@@ -44,8 +44,8 @@
                                 <div class="theme_title">
                                  <h4>Contact</h4>
                              </div>
-                             <p><span class="ficon flaticon-map"></span> 11/F, FORTUNE COMMERCIAL BUILDING, 362 SHA TSUI ROAD, TSUEN WAN, HONG KONG</p>
-                             <p><span class="ficon flaticon-phone"></span> <a href="#">(+852) 0000 0000</a></p>
+                             <p><span class="ficon flaticon-map"></span> 1 Poultry, Bank London,EC2R 8EJ United Kingdom</p>
+                             <p><span class="ficon flaticon-phone"></span> <a href="#">(+44) 0000 0000</a></p>
                              <p><span class="ficon flaticon-messagetwo"></span> <a href="#">info@silverlionglobal.com</a></p>
                             
                             </div> <!-- End of .footer_contact -->
