@@ -45,8 +45,8 @@
                                  <h4>Contact</h4>
                              </div>
                              <p><span class="ficon flaticon-map"></span> 1 Poultry, Bank London,EC2R 8EJ United Kingdom</p>
-                             <p><span class="ficon flaticon-phone"></span> <a href="#">(+44) 20703 04061</a></p>
-                             <p><span class="ficon flaticon-messagetwo"></span> <a href="#">info@silverlionglobal.com</a></p>
+                             <p><span class="ficon flaticon-phone"></span> <a href="tel:+442070304061">(+44) 20703 04061</a></p>
+                             <p><span class="ficon flaticon-messagetwo"></span> <a href="mailto:info@silverlionglobal.com">info@silverlionglobal.com</a></p>
                             
                             </div> <!-- End of .footer_contact -->
                         </div> <!-- End of .row -->
