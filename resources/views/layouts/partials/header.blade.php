@@ -6,7 +6,7 @@
             <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12 header_left">
                 <ul>
                     <li><i class="fa fa-map-marker s_color" aria-hidden="true"></i><a href="https://www.google.com/maps/place/No+1+Poultry/@51.5133498,-0.0931208,17z/data=!3m2!4b1!5s0x48766cd1dfeda77d:0x7743fd27692673dd!4m6!3m5!1s0x48760354e26dae67:0x96aeb9adc61cddcd!8m2!3d51.5133465!4d-0.0905459!16zL20vMDI2Y204?entry=ttu">1 Poultry, Bank London,EC2R 8EJ United Kingdom</a></li>
-                    <li><i class="fa fa-phone s_color" aria-hidden="true"></i><a href="tel:+442070304061">Contact Us! (+44) 20703 04061 </a></li>
+                    <li><i class="fa fa-phone s_color" aria-hidden="true"></i><a href="tel:+442070304061">Contact Us! (+44) 20703 04061 (Switchboard)</a></li>
                     
                 </ul>
             </div> <!-- End of .header_left -->
@@ -19,7 +19,7 @@
         <div class="main_menu">
         	<div class="container">
         		<div class="logo float_left">
-        			<a href="index.html"><img src="{{ asset('images/logo/logo.svg') }}" width="220px" height="27px" alt="{{ config('app.full_company_name') }}" class="img-responsive"></a>
+        			<a href="{{ url('/') }}"><img src="{{ asset('images/logo/logo.svg') }}" width="220px" height="27px" alt="{{ config('app.full_company_name') }}" class="img-responsive"></a>
         		</div> <!-- End of .logo -->
 
         		<nav class="navbar navbar-default float_left">
