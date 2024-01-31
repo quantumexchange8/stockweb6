@@ -5,7 +5,7 @@
         <div class="row">
             <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12 header_left">
                 <ul>
-                    <li><i class="fa fa-map-marker s_color" aria-hidden="true"></i><a href="https://www.google.com/maps/place/No+1+Poultry/@51.5133498,-0.0931208,17z/data=!3m2!4b1!5s0x48766cd1dfeda77d:0x7743fd27692673dd!4m6!3m5!1s0x48760354e26dae67:0x96aeb9adc61cddcd!8m2!3d51.5133465!4d-0.0905459!16zL20vMDI2Y204?entry=ttu">1 Poultry, Bank London,EC2R 8EJ United Kingdom</a></li>
+                    <li><i class="fa fa-map-marker s_color" aria-hidden="true"></i><a href="https://www.google.com/maps/place/Fortune+Commercial+Building,+362+Sha+Tsui+Rd,+Tsuen+Wan,+Hong+Kong/@22.3682357,114.1140463,17z/data=!3m1!4b1!4m6!3m5!1s0x3403f8ecbc48a89b:0x85cd7738f896516e!8m2!3d22.3682308!4d114.1189172!16s%2Fg%2F12hmtnrxn?authuser=0&entry=ttu">11/F, Fortune Commercial Building, 362 Sha Tsui Road, Tsuen Wan, Hong Kong</a></li>
                     <li><i class="fa fa-phone s_color" aria-hidden="true"></i><a href="tel:+442070304061">Contact Us! (+44) 20703 04061 (Switchboard)</a></li>
                     
                 </ul>

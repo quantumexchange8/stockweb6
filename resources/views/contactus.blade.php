@@ -41,6 +41,10 @@
                 <h4>UK, London</h4>
                     <span style="font-family: 'Roboto', sans-serif; font-weight: 500; color: #272727;">Phone :</span> <span>(+44) 20703 04061 (Switchboard)</span><br>
                     <span style="font-family: 'Roboto', sans-serif; font-weight: 500; color: #272727;">Address :</span> <span>1 Poultry, Bank London,EC2R 8EJ United Kingdom </span>
+                
+                <p><h4>Hong Kong</h4>
+                <span style="font-family: 'Roboto', sans-serif; font-weight: 500; color: #272727;">Address :</span> <span>11/F, Fortune Commercial Building, 362 Sha Tsui Road, Tsuen Wan, Hong Kong</span></p>
+
                 <p><h4>Japan, Tokyo</h4>
                 <span style="font-family: 'Roboto', sans-serif; font-weight: 500; color: #272727;">Address :</span> <span>1 Chome-11番1号,Marunouchi, Chiyoda City Tokyo 100-6213 Japan </span></p>
 
@@ -90,7 +94,7 @@
 
 <!-- Google map _________________________________ -->
 <section id="google-map-area">
-    <div style="max-width:100%;list-style:none; transition: none;overflow:hidden;width:auto;height:600px;"><div id="my-map-canvas" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=No+1+Poultry,+Poultry,+London+EC2R+8EJ,+United+Kingdom&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><style>#my-map-canvas img.text-marker{max-width:none!important;background:none!important;}img{max-width:none}</style></div>
+    <div style="max-width:100%;list-style:none; transition: none;overflow:hidden;width:auto;height:600px;"><div id="my-map-canvas" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Fortune+Commercial+Building,+362+Sha+Tsui+Road,+Tsuen+Wan,+Hong+Kong&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><style>#my-map-canvas img.text-marker{max-width:none!important;background:none!important;}img{max-width:none}</style></div>
 </section>
 
 <script type="text/javascript">
