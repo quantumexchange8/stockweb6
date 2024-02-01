@@ -38,9 +38,9 @@
                 </div>
                 <p><span>Company : </span> {{ config('app.full_company_name') }}</p>
                 
-                <h4>UK, London</h4>
-                    <span style="font-family: 'Roboto', sans-serif; font-weight: 500; color: #272727;">Phone :</span> <span>(+44) 20703 04061 (Switchboard)</span><br>
-                    <span style="font-family: 'Roboto', sans-serif; font-weight: 500; color: #272727;">Address :</span> <span>1 Poultry, Bank London,EC2R 8EJ United Kingdom </span>
+                <h4>Luxembourg</h4>
+                    <span style="font-family: 'Roboto', sans-serif; font-weight: 500; color: #272727;">Phone :</span> <span>(+352) 2794 1780 (Switchboard)</span><br>
+                    <span style="font-family: 'Roboto', sans-serif; font-weight: 500; color: #272727;">Address :</span> <span>President East Building,Avenue J.F. Kennedy L-1855 Luxembourg</span>
                 
                 <p><h4>Hong Kong</h4>
                 <span style="font-family: 'Roboto', sans-serif; font-weight: 500; color: #272727;">Address :</span> <span>11/F, Fortune Commercial Building, 362 Sha Tsui Road, Tsuen Wan, Hong Kong</span></p>
@@ -51,8 +51,8 @@
                 <p><h4>Singapore</h4>
                     <span style="font-family: 'Roboto', sans-serif; font-weight: 500; color: #272727;">Address :</span> <span>Ocean Financial Centre,10 Collyer Quay 049315 Singapore</span></p>
 
-                <p><h4>Luxembourg</h4>
-                    <span style="font-family: 'Roboto', sans-serif; font-weight: 500; color: #272727;">Address :</span> <span>President East Building,Avenue J.F. Kennedy L-1855 Luxembourg</span></p>
+                <p><h4>UK, London</h4>
+                    <span style="font-family: 'Roboto', sans-serif; font-weight: 500; color: #272727;">Address :</span> <span>1 Poultry, Bank London,EC2R 8EJ United Kingdom </span></p>
                 
                 <p><h4>Italy, Milan</h4>
                     <span style="font-family: 'Roboto', sans-serif; font-weight: 500; color: #272727;">Address :</span> <span>Torre Diamante Building,Via Mike Bongiorno, 13, 20124 Milano MI Italy</span></p>
