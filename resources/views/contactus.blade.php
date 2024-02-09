@@ -94,7 +94,7 @@
 
 <!-- Google map _________________________________ -->
 <section id="google-map-area">
-    <div style="max-width:100%;list-style:none; transition: none;overflow:hidden;width:auto;height:600px;"><div id="my-map-canvas" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Fortune+Commercial+Building,+362+Sha+Tsui+Road,+Tsuen+Wan,+Hong+Kong&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><style>#my-map-canvas img.text-marker{max-width:none!important;background:none!important;}img{max-width:none}</style></div>
+    <div style="max-width:100%;list-style:none; transition: none;overflow:hidden;width:auto;height:600px;"><div id="my-map-canvas" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Winway+Building,+50+Wellington+Street,+Central,+Hong+Kong+Island,+Hong+Kong&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><style>#my-map-canvas img.text-marker{max-width:none!important;background:none!important;}img{max-width:none}</style></div>
 </section>
 
 <script type="text/javascript">
