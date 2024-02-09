@@ -147,7 +147,7 @@
 						<div class="theme_title">
 							<h3>About Us</h3>
 						</div>
-						<p>Established in 2021, {{ config('app.full_company_name') }} is a wealth management firm that caters to individual needs. Besides our headquarters in Hong Kong, we also have regional offices in Taiwan and London.
+						<p>Established in 2019, {{ config('app.full_company_name') }} is a wealth management firm that caters to individual needs. Besides our headquarters in Hong Kong, we also have regional offices in Taiwan and London.
 						  <br><br>By aligning ourselves with your particular aspirations, goals, and objectives, we are able to provide you and your ecosystem with unrestricted assistance and value in our capacity as certified financial advisers and asset management specialists. We invest effort in understanding the journey that awaits you and offer assistance as you traverse this trajectory. Our objective is to support you in reaching your goals through the expansion of your investments in a transparent, effective, and tax-efficient manner.
 							<br><br>You are more than a client in our eyes. By joining our ecosystem, you are welcomed into a realm of mutual respect and assistance where the value of financial advice transcends mere numerical data. Collaboratively developing a strategy to improve the future for all members of society is the essence of constructing a community that is committed to your best interests.</p>
 					</div> <!-- End of .about_ConsultPress -->

@@ -61,7 +61,7 @@
 
                 <div class="bottom_footer">
                     <div class="container">
-                        <p class="text-center font_fix">{{ config('app.full_company_name') }}  &copy; 2021 - {{ now()->year }}</p>                      
+                        <p class="text-center font_fix">{{ config('app.full_company_name') }}  &copy; 2019 - {{ now()->year }}</p>                      
                         <div class="clear_fix"></div>
                     </div>
                 </div> <!-- End of .bottom_footer -->
