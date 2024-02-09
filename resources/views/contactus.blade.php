@@ -43,7 +43,7 @@
                     <span style="font-family: 'Roboto', sans-serif; font-weight: 500; color: #272727;">Address :</span> <span>President East Building,Avenue J.F. Kennedy L-1855 Luxembourg</span>
                 
                 <p><h4>Hong Kong</h4>
-                <span style="font-family: 'Roboto', sans-serif; font-weight: 500; color: #272727;">Address :</span> <span>11/F, Fortune Commercial Building, 362 Sha Tsui Road, Tsuen Wan, Hong Kong</span></p>
+                <span style="font-family: 'Roboto', sans-serif; font-weight: 500; color: #272727;">Address :</span> <span>Unit 503, 5/F, Winway Building, 50 Wellington Street, Central, Hong Kong</span></p>
 
                 <p><h4>Japan, Tokyo</h4>
                 <span style="font-family: 'Roboto', sans-serif; font-weight: 500; color: #272727;">Address :</span> <span>1 Chome-11番1号,Marunouchi, Chiyoda City Tokyo 100-6213 Japan </span></p>
