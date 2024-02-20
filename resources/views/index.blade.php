@@ -168,7 +168,7 @@
 			<div class="overlay">
 				<div class="container">
 					<div class="theme_title">
-						<h2>What Special?</h2>
+						<h2>What's Special About Us?</h2>
 					</div>
 					<div class="row">
 						<!-- _____________ Item ____________ -->
