@@ -1,4 +1,3 @@
-		<meta name="robots" content="noindex, nofollow">
 		<!-- Favicon -->
 		<link rel="icon" type="image/x-icon" href="{{ asset('images/fav-icon/favicon.ico') }}">
 		<link rel="apple-touch-icon" sizes="180x180" href="{{ asset('images/fav-icon/apple-touch-icon.png') }}">
