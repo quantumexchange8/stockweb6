@@ -45,7 +45,6 @@
                                  <h4>Contact</h4>
                              </div>
                              <p><span class="ficon flaticon-map"></span>Unit 503, 5/F, Winway Building, 50 Wellington Street, Central, Hong Kong</p>
-                             <p><span class="ficon flaticon-phone"></span> <a href="tel:+442070304061">(+352) 2794 1780 (Switchboard)</a></p>
                              <p><span class="ficon flaticon-messagetwo"></span> <a href="mailto:info@silverlionglobal.com">info@silverlionglobal.com</a></p>
                             
                             </div> <!-- End of .footer_contact -->
