@@ -39,7 +39,6 @@
                 <p><span>Company : </span> {{ config('app.full_company_name') }}</p>
                 
                 <h4>Luxembourg</h4>
-                    <span style="font-family: 'Roboto', sans-serif; font-weight: 500; color: #272727;">Phone :</span> <span>(+352) 2794 1780 (Switchboard)</span><br>
                     <span style="font-family: 'Roboto', sans-serif; font-weight: 500; color: #272727;">Address :</span> <span>President East Building,Avenue J.F. Kennedy L-1855 Luxembourg</span>
                 
                 <p><h4>Hong Kong</h4>
