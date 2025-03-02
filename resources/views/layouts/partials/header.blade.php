@@ -6,7 +6,7 @@
             <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12 header_left">
                 <ul>
                     <li><i class="fa fa-map-marker s_color" aria-hidden="true"></i><a href="https://www.google.com/maps/place/Winway+Building/@22.2817189,114.1528231,17z/data=!4m10!1m2!2m1!1sUnit+503,+5%2FF,+Winway+Building,+50+Wellington+Street,+Central,+Hong+Kong!3m6!1s0x3404007b368f0761:0xe80d2cad2a4a3e24!8m2!3d22.281714!4d114.155398!15sCkhVbml0IDUwMywgNS9GLCBXaW53YXkgQnVpbGRpbmcsIDUwIFdlbGxpbmd0b24gU3RyZWV0LCBDZW50cmFsLCBIb25nIEtvbmeSAQ9idXNpbmVzc19jZW50ZXLgAQA!16s%2Fg%2F11k3mzd5_8?authuser=0&entry=ttu">Unit 503, 5/F, Winway Building, 50 Wellington Street, Central, Hong Kong</a></li>
-                    <li><i class="fa fa-phone s_color" aria-hidden="true"></i><a href="tel:+35227941780">Contact Us! (+352) 2794 1780 (Switchboard)</a></li>
+                   
                     
                 </ul>
             </div> <!-- End of .header_left -->
